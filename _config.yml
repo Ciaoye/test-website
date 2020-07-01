@@ -1,0 +1,37 @@
+# site settings
+title: Clifford Bridges
+subtitle: Mathematician and Data Scientist
+email: cliffbridges5@gmail.com
+description: Get to know the Mathematician, Educator, Data Scientist, and Stylist!
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 
+city: Boulder
+state: Colorado
+zip_code: "\n"
+country: United States of America
+phone: 
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 10
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/CliffordBridges
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/clifford-bridges-69056371
+pinterest_url:
+slack_url:
+twitter_url: 
+medium_url: https://medium.com/@cliffordbridges_3887
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
